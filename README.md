@@ -1,0 +1,2 @@
+# wxPlantRecognition
+基于百度植物识别API的植物科普微信小程序
